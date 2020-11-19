@@ -1,0 +1,27 @@
+{
+  "name": "goodreadmegenerator",
+  "version": "1.0.0",
+  "description": "Good Read Me Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumaya198/GoodReadMeGenerator.git"
+  },
+  "author": "Sumaya Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumaya198/GoodReadMeGenerator/issues"
+  },
+  "homepage": "https://github.com/Sumaya198/GoodReadMeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "keywords": []
+}
