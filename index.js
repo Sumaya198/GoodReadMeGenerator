@@ -18,8 +18,8 @@ inquirer.prompt(
         },
         {
             type: "input",
-            message: "Instructions",
-            name:"instructions of this project",
+            message: "Instructions of this project",
+            name:"instructions",
             validate: (value)=>{ if(value){return true} else {return 'I need a value to proceed'}},
         },
         {

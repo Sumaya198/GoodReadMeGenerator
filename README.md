@@ -1,4 +1,4 @@
-# Professional README Generator
+# Professional ReadME Generator.
     
   # Table of Contents
    
@@ -13,22 +13,22 @@
 ## Description:
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg "Liscense Badge")
 
-  Generating a high quality README.md file so that the developer can quickly create a professional read me for a new project.
+  Generating a high quality README.md file in order for the developer to save time when working on a new project.
 
 ## Installation:
-Clone the repo and initiate the program with "node index".
+Clone the repository and initiate the program with "node index"
 
 ## Intructions:
-undefined
+Answer the questions with as much detail as possible
 
 ## Usage:
-Accurately respond to the inputs. Once you have answered all the questions the program will generate a professional README.md file with all your inputs organised within the file
+Accurately respond to the inputs. Once you have answered all the questions the program will generate a professional README.md file with all your inputs organised within
 
 ## Contribution:
-Contributions are welcome.
+contributions are welcome
 
 ## Test
-Not required
+none required
 
 ## License:
 for more information about the license, click on the link below.
